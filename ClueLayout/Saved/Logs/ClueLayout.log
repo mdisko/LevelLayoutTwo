@@ -1377,3 +1377,4 @@ Minimum required: 527.27
 [2023.11.14-07.15.18:790][782]LogActorFactory: Actor Factory spawned StaticMesh /Game/MeghanAssets/VHSTape.VHSTape as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_7C10C9D2281E2ABC01_1504690080
 [2023.11.14-07.15.32:821][250]Cmd: TRANSACTION UNDO
 [2023.11.14-07.15.32:821][250]LogEditorTransaction: Undo Create Actors
+[2023.11.14-08.13.04:676][710]LogDerivedDataCache: C:/Users/megdi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.132 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4705 files in 6251 folders with total size 484 MiB.
